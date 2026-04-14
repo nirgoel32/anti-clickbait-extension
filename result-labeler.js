@@ -1,0 +1,1 @@
+// Content of result-labeler.js
