@@ -1,0 +1,1 @@
+// google-provider.js code here
